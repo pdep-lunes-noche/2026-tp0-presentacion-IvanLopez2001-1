@@ -5,7 +5,9 @@
 
 ## MI CARITA
 
-![Sin título-3](https://github.com/user-attachments/assets/5e96e965-1211-4cb5-9078-cf541e9b6569)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e96e965-1211-4cb5-9078-cf541e9b6569" width="25%">
+</p>
 
 ## MI CARRERA
 
