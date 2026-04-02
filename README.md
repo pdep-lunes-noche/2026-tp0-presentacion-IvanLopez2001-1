@@ -10,4 +10,5 @@
 ## MI CARRERA
 
 main: [Ziggsmund Freud](https://op.gg/es/lol/summoners/las/Ziggsmund%20Freud-PANDI)
+
 smurf: [NeBulla](https://op.gg/es/lol/summoners/las/NeBulla-LAS)
