@@ -1,15 +1,13 @@
-## Título
-### Subtítulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+## INFORMACION
+| Nombre | Apellido | Legajo |
+|:-------|:--------:|-------:|
+| Ivan | Lopez    | 2037853 |
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
+## MI CARITA
 
-Este es un ejemplo de texto que da entrada a una lista numerada:
+![Sin título-3](https://github.com/user-attachments/assets/5e96e965-1211-4cb5-9078-cf541e9b6569)
 
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
+## MI CARRERA
 
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+main: [Ziggsmund Freud](https://op.gg/es/lol/summoners/las/Ziggsmund%20Freud-PANDI)
+smurf: [NeBulla](https://op.gg/es/lol/summoners/las/NeBulla-LAS)
